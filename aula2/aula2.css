@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+#unico{
+    color: white;
+}
+.color_classe{
+    color: white;
+}
+a:hover{
+   color:rgb(218, 27, 27);
+}

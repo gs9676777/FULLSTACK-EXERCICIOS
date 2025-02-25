@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.menu{
+    display: block;
+    background-color: gray;
+    bottom: 0px;
+    border-style: solid;
+    width: 100%; 
+    padding: 20px;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: black;
+}
+h1{
+    color: yellow;
+}
+.homeimg{
+    width: 800px;
+    height: 500px;
+}
+
+p{
+    color: yellow;
+}

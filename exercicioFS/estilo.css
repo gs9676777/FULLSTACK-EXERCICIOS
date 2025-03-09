@@ -1,0 +1,142 @@
+body {
+    font-family: Sans-Serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+    text-align: center;
+}
+
+header {
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border: 3px solid blue;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.texto{
+    font-family: sans-serif;
+    font-size: 10pt;
+   color: indigo;
+}
+
+.logo img {
+    width: 80px;
+}
+
+h1 {
+    font-size: 24px;
+    color: green;
+}
+
+.menu {
+    background-color: lightskyblue;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 0 30px;
+    color: darkred;
+    font-weight: bold;
+}
+
+
+.livros2 {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.livros2 img {
+    width: 150px;
+    height: auto;
+}
+
+.video-mapa {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.video-mapa iframe {
+    width: 400px;
+    height: 300px;
+}
+
+.contato {
+    background-color: yellow;
+    margin-top: 10px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.contato p {
+    text-align: left;
+}
+
+.contato ul {
+    padding: 0;
+}
+
+.contato ul li {
+    display: flex;
+    align-items: center; 
+}
+
+.contato ul li a {
+    flex-grow: 1;
+    text-align: center; 
+    color: black;
+}
+
+.contatos table {
+    width: 30%;
+    margin: auto;
+    outline: dashed red 5px;
+}
+
+.contatos th {
+    border: 1px solid black;
+    padding: 10px;
+    color: red;
+}
+
+.contatos td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+footer {
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.fim img {
+    width: 80px;
+}
+
+h3 {
+    font-family: Comic Sans MS;
+    font-size: 15pt;
+}
+
+
+
+

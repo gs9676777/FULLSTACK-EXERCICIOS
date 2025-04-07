@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f8ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+  }
+  .canvas-container {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+  }
+  canvas {
+    border: 1px solid #000;
+  }
